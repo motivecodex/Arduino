@@ -1,0 +1,8 @@
+2:deepRed
+3:blue
+4:farRed
+5:white
+6:pomp
+7:fan
+8:_____
+9:_____

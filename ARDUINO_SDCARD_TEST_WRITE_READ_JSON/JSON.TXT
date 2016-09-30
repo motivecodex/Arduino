@@ -1,0 +1,3 @@
+{"Greenhouse":[
+{"plantName":"mint", "waterLevel":"60", "degree":"19"}
+]}
